@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "<strong>Postdoctoral researcher.</strong> Previously worked at the <a href='https://www.consciousbrainlab.com/'>Conscious Brain Lab</a> and will soon join the <a href='https://translat-psych.medizin.unibas.ch/en/team/'>Translational Psychiatry Lab</a>."
 
 profile:
   align: right
