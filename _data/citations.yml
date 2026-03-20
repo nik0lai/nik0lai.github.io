@@ -1,14 +1,10 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-20'
 papers:
   2oxkW38AAAAJ:7PzlFSSx8tAC:
     citations: 6
     title: Confidence reports during perceptual decision making dissociate from changes in subjective experience
     year: '2025'
-  2oxkW38AAAAJ:L8Ckcad2t8MC:
-    citations: 0
-    title: The act of detecting a stimulus contaminates measures of conscious experience with unrelated cognitive factors
-    year: Unknown Year
   2oxkW38AAAAJ:hC7cP41nSMkC:
     citations: 0
     title: Evidence for unconscious priming using a Bayesian single-subject approach
@@ -16,6 +12,10 @@ papers:
   2oxkW38AAAAJ:hFOr9nPyWt4C:
     citations: 0
     title: How to Measure Subjective Experience
+    year: '2025'
+  2oxkW38AAAAJ:mB3voiENLucC:
+    citations: 0
+    title: 'Disentangling perceptual and response biases: The act of detecting a stimulus contaminates measures of conscious experience'
     year: '2025'
   2oxkW38AAAAJ:qjMakFHDy7sC:
     citations: 29
