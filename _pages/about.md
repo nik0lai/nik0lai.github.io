@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<strong>Postdoctoral researcher.</strong> Previously at the <a href='https://www.consciousbrainlab.com/'>Conscious Brain Lab</a> and will soon join the <a href='https://translat-psych.medizin.unibas.ch/en/team/'>Translational Psychiatry Lab</a>."
+subtitle: "<strong>Postdoctoral researcher</strong> at the <a href='https://translat-psych.medizin.unibas.ch/en/team/'>Translational Psychiatry Lab</a>. Previously at the <a href='https://www.consciousbrainlab.com/'>Conscious Brain Lab</a>."
 
 profile:
   align: right
