@@ -36,6 +36,13 @@ ninja.data = [{
           window.open("https://bsky.app/profile/n41c0.bsky.social", "_blank");
         },
       },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6E%69%63%6F%6C%61%73.%63%61%72%76%61%6A%61%6C%73%61%6E%63%68%65%7A@%75%6E%69%62%61%73.%63%68", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
